@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "607778652661",
+    "project_id": "indiana-grand-story",
+    "firebase_url": "https://console.firebase.google.com/u/0/project/indiana-grand-story/overview",
+    "storage_bucket": "indiana-grand-story.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607778652661:android:9a4bccb3fe654b2f5720bc",
+        "android_client_info": {
+          "package_name": "com.gamez_monster.indianaGrandStoryMatch3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfg8fSoLMp1FCFc0iWl7B34X3pd0Wm7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
